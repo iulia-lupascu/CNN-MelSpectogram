@@ -10,7 +10,7 @@ Custom Model Design: Built and trained a neural network from scratch using PyTor
 
 Audio Preprocessing: Implemented feature extraction and normalization techniques to prepare speech data for model input.
 
-Model Architecture: Explored multiple architectures including CNNs, RNNs, and hybrid models to capture temporal and spectral patterns in speech.
+Model Architecture: Explored multiple architectures such as CNNs to capture temporal and spectral patterns in speech.
 
 Evaluation: Model tested on a blind test set and compared against a provided baseline for leaderboard scoring.
 

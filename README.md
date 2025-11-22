@@ -1,6 +1,6 @@
 # Emotion Recognition from Speech using Deep Learning
 
-This repository contains our solution for a hands-on assignment in Deep Learning, focused on building a custom convolutional neural network to predict emotional valence from raw audio signals.
+This repository contains the solution for a hands-on assignment in Deep Learning, focused on building a custom convolutional neural network to predict emotional valence from raw audio signals.
 
 Objective
 Develop a deep learning model that can estimate emotional valence (scale 1-5) from spoken utterances using end-to-end audio processing without a pre-trained model
